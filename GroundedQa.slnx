@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/GroundedQa/GroundedQa.csproj" />
+  <Project Path="tests/GroundedQa.Tests/GroundedQa.Tests.csproj" />
+</Solution>
